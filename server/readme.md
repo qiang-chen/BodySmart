@@ -5,7 +5,7 @@
 ### 增加用户接口
 #### 接口地址 
 ~~~ js
-    http://localhost:3000/substiution/adduser
+    http://169.254.155.89:3000/substiution/adduser
 ~~~
 #### 请求方式
     post
@@ -51,7 +51,7 @@
 ### 获取代课费接口
 #### 接口地址 
 ~~~ js
-    http://localhost:3000/substiution/getStaffInfo
+    http://169.254.155.89:3000/substiution/getStaffInfo
 ~~~
 #### 请求方式
     get
@@ -81,7 +81,7 @@
 ### 删除用户接口
 #### 接口地址 
 ~~~ js
-    http://localhost:3000/substiution/removeStaffInfo
+    http://169.254.155.89:3000/substiution/removeStaffInfo
 ~~~
 #### 请求方式
     delete
@@ -111,7 +111,7 @@
 ### 查询接口
 #### 接口地址 
 ~~~ js
-    http://localhost:3000/substiution/searchStaffInfo
+    http://169.254.155.89:3000/substiution/searchStaffInfo
 ~~~
 #### 请求方式
     get
@@ -138,7 +138,7 @@
 ### 获取个人档案接口
 #### 接口地址 
 ~~~ js
-    http://localhost:3000/archives/getStaffInfo
+    http://169.254.155.89:3000/archives/getStaffInfo
 ~~~
 #### 请求方式
     get
@@ -169,7 +169,7 @@
 ### 删除用户接口
 #### 接口地址 
 ~~~ js
-    http://localhost:3000/archives/removeStaffInfo
+    http://169.254.155.89:3000/archives/removeStaffInfo
 ~~~
 #### 请求方式
     delete
@@ -200,7 +200,7 @@
 ### 查询接口
 #### 接口地址 
 ~~~ js
-    http://localhost:3000/archives/searchStaffInfo
+    http://169.254.155.89:3000/archives/searchStaffInfo
 ~~~
 #### 请求方式
     get
